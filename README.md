@@ -44,9 +44,9 @@
 
 <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="128">
 
-## 🐦 Latest Tweet
+<!-- ## 🐦 Latest Tweet
 
-[![](https://gtce.itsvg.in/api?username=adfd_2)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=adfd_2)](https://github.com/VishwaGauravIn/github-twitter-card-embed) -->
 
 ### ✍️ Random Dev Quote
 
