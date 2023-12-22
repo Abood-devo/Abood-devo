@@ -1,5 +1,7 @@
 # 💫 About Me:
-
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Intelligent%20Systems%20Engineer;Somehow%20I%20Love%20Web-development&font=Fira%20Code&center=true&width=440&height=45&color=FAD000&vCenter=true&size=26"></a>
+</p>
 👨‍🎓I'm currently studying Intelligent Systems Engineering<br>🫱🏼‍🫲🏼I'm looking to collaborate on a web application based on machine-learning<br>💡I'm currently learning React, and deep neural networks<br>💭ask me about Linux/WSL2, Python, Django<br>👨‍💻fun fact I'm coding at the moment
 
 ## 🌐 Socials:
