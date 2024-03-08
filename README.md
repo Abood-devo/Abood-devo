@@ -43,8 +43,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abood-devo&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub [Achievements](https://github.com/Abood-devo?tab=achievements)
-
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="128">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="128"><img src="https://github.githubassets.com/assets/quickdraw-default--medium-0bdca502f5b4.png" width="128">
 
 <!-- ## 🐦 Latest Tweet
 
